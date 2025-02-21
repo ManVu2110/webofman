@@ -9,6 +9,6 @@ function login()
   }
   else
   {
-    window.open("tryagain.html")
+    document.getElementById("retry").innerText="Tên đăng nhập hoặc Mật khẩu chưa đúng. Vui lòng thử lại."
   }
 }
