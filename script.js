@@ -5,6 +5,6 @@ function login()
   if (u=="ManVu2110" && p=="mandeptrai2110")
   {
     window.open("home.html")
-    document getElementById(compiler).style.display="block"
+    document.getElementById(compiler).style.display="block"
   }
 }
