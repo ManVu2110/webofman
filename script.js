@@ -10,6 +10,6 @@ function login()
   }
   else
   {
-    document.getElementById("retry").innerText=vltl
+    document.getElementById("retry").innerHTML=vltl
   }
 }
