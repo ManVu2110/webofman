@@ -16,17 +16,22 @@ ol
 }
 ul
 {
-
+  color: white;
+  background-color: OrangeRed;
 }
 li
 {
-
+  color: #00004d;
 }
 form
 {
-  background-color: AliceBlue
+  background-color: AliceBlue;
+  border-color: DarkSlateBlue;
+  border-style: solid;
 }
 table
 {
-
+  background-color: LemonChiffon;
+  border-color: DarkOrange;
+  border-style: solid;
 }
