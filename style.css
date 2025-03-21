@@ -35,3 +35,11 @@ table
   border-color: DarkOrange;
   border-style: solid;
 }
+
+.header {
+  color: White;
+  background-color: Tomato;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
