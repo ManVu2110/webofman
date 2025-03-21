@@ -43,3 +43,15 @@ table
   padding: 20px;
   font-weight: bold;
 }
+.demuc a {
+  color: Azure;
+  background-color: Coral;
+  padding: 20px;
+  font-weight: bold;
+}
+.demuc a:hover {
+  color: Azure;
+  background-color: Crimson;
+  padding: 20px;
+  font-weight: bold;
+}
