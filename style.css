@@ -46,15 +46,19 @@ table
 .demuc {
   color: Azure;
   background-color: Coral;
-  padding: 5px;
-  font-weight: bold;
-  display: block;
-  float: left;
 }
 .demuc a {
   color: Azure;
+  display: block;
+  float: left;
+  padding: 5px;
+  font-weight: bold;
 }
 .demuc a:hover {
   color: Azure;
   background-color: Crimson;
+}
+.frame {
+  height: 100%;
+  weight: 100%;
 }
